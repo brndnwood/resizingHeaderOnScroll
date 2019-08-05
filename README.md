@@ -5,4 +5,5 @@ Header view resizes when the table view is scrolled.
 
 
 Table cells are removed with animation when selected.
+
 <img src="removeCells.gif" width=150 height=300/>
